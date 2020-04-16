@@ -18,4 +18,4 @@ Given below: instance progression for:
 grid = [[2,1,1],[1,1,0],[0,1,1]]
 ``
 
-<img src="backtracking.png" width="250" height="250"> 
+<img src="images/backtracking.png" width="250" height="250"> 

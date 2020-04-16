@@ -17,4 +17,4 @@ Given below: instance progression for:
 ``
 grid = [[2,1,1],[1,1,0],[0,1,1]]
 ``
-![alt text](/backtracking.png)
+![png](backtracking.png)
